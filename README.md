@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to obstie! 👋  
 
-<!--
-**obstie/obstie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hie everyone, so here is a spot that will showcase a little bit about me! Let’s dive straight in:  
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on**: Crafting some awesome HTML forms (yes, I found so much fun in them—just wanna do them over and over again).  
+- 🌱 **At the moment, I am learning**: Some CSS—love to style, and styling is my style!  
+- 👯 **Tweaks and turns**: I am looking to collaborate on anything CSS-related, especially layouts, Grid, and Flex united.  
+- 🤔 **Sending an SOS to**: CSS grids, animations, and those annoying media queries that refuse to cooperate.  
+- 💬 **Ask me about**: My love for playing music 🎸 or my instinct for fixing computers 💻. Seriously, I’m your tech guy!  
+- 📫 **How to reach me**: [Insert contact info or social links here!]  
+- 😄 **Pronouns**: [Insert your pronouns here!]  
+- ⚡ **Fun fact**: I love eating fish, cycling 🚴, karate 🥋, and attending kickboxing lessons online to never practice.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect and create something amazing and rule the world!  
