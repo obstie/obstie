@@ -1,6 +1,10 @@
 # Welcome to obstie! 👋  
 
-✨ Hie everyone, so here is a spot that will showcase a little bit about me! Let’s dive straight in:  
+✨ Hie everyone, so here is a spot that will showcase a little bit about me!  
+
+I’m currently working on a hometown page that showcases the lovely city of Cape Town. 🌍 I’ve used CSS Grid and Flexbox for the layout, and added some JavaScript at the bottom to highlight other fun places to visit.  
+
+Let’s dive straight in:  
 
 - 🔭 **I’m currently working on**: Crafting some awesome HTML forms (yes, I found so much fun in them—just wanna do them over and over again).  
 - 🌱 **At the moment, I am learning**: Some CSS—love to style, and styling is my style!  
