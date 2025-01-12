@@ -1,6 +1,6 @@
-# Welcome to obstie! 👋  
+# It's Obie! 👋  
 
-✨ Hie everyone, so here is a spot that will showcase a little bit about me!  
+✨ Hi everyone, so here is a spot that will showcase a little bit about me!  
 
 I’m currently working on a hometown page that showcases the lovely city of Cape Town. 🌍 I’ve used CSS Grid and Flexbox for the layout, and added some JavaScript at the bottom to highlight other fun places to visit.  
 
